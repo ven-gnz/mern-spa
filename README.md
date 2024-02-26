@@ -1,1 +1,1 @@
-Simple mern-spa
+Simple mern-spa. Learning to build a responsive front-end development with the MERN stack, as well as whatever interesting problems that might show up in scope. Ongoing project.
