@@ -1,0 +1,57 @@
+
+.page-overview {
+  text-align:center;
+  color: goldenrod;
+}
+
+body{
+  background-color:aliceblue
+}
+
+.add-numbers {
+  padding:25px;
+  display:inline-block;
+  text-align:left;
+  margin-bottom : 25px;
+}
+
+.flex-input{
+  display:flex;
+  justify-content: space-between;
+  flex-wrap : wrap-reverse;
+}
+
+.error{
+  padding : 3px;
+  padding-left : 10px;
+  display:inline-block;
+  background-color:rgb(213, 225, 233);
+  font-style:italic;
+  font-size: 26px;
+  outline: 2px solid olivedrab;
+}
+
+.flex-li{
+  display:flex;
+  justify-content: space-between;
+  margin: 5px;
+  padding-right : 25px;
+}
+.centered-ul{
+  display:inline-block;
+  text-align: left;
+}
+
+.list-container {
+  text-align: center;
+}
+
+button {
+  margin-left: 3rem;
+  background-color: goldenrod;
+  color: whitesmoke;
+}
+
+button:hover{
+  background-color: olivedrab;
+}
